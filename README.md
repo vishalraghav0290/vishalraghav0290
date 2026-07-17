@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center">Hi, I'm Yagya Goel</h1>
+<h1 align="center">Hi, I'm Vishal Raghav</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 
@@ -32,9 +32,8 @@
 ## 🔥 Github Stats
 
 <p  align="center"> 
-<a href="https://github.com/yagyagoel1">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yagyagoel1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt=""/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yagyagoel1&theme=algolia&hide=c%2B%2B&layout=compact"/>
+<a href="https://github.com/vishalraghav0290">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=vishalraghav0290&rank_icon=github&show_icons=true&include_all_commits=true" alt=""/>
 </a>
 </p>
 <br>
@@ -42,14 +41,14 @@
 ## 📬 Get in touch
 
 <p align="center">
-<a href="https://twitter.com/Yagyagoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yagyagoel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://x.com/vishalRaghav666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishal-raghav-747a61251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
    
 
 
 <br>
 
 
-![](https://komarev.com/ghpvc/?username=yagyagoel1)
+![](https://komarev.com/ghpvc/?username=vishalraghav0290)
 
   
