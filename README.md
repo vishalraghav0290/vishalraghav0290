@@ -1,55 +1,56 @@
 # Hi there, I'm Vishal Raghav 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-raghav-747a61251/)
-[![Portfolio / Live Demos](https://img.shields.io/badge/Live_Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://finquity.net)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com)
+[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalraghav0289@gmail.com)
 
 ---
 
 ### 🚀 About Me
 
-I am a **Frontend / Full-Stack Developer** specializing in building high-performance web applications, scalable component architectures, and interactive 3D experiences.
+I am a **Frontend & Creative Web Developer** building high-performance web applications, interactive 3D experiences, and smooth motion interfaces.
 
-- 💼 **Experience:** Frontend Developer with production experience building web applications using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
-- ⚡ **Specialties:** Component architecture, web performance optimization (reduced load times by up to 40%), REST API integration, and 3D web development (**Three.js / React Three Fiber**).
-- 🎓 **Education:** Master of Computer Applications (MCA) at Manipal University Jaipur | BCA from Mangalayatan University.
-- 💬 **Ask me about:** React, Next.js, WebGL/Three.js, Docker, and frontend architecture.
+- 💼 **Experience:** Developed scalable, type-safe interfaces at **MrManager** and **DigiVikreta** using Next.js, TypeScript, React, and Tailwind CSS.
+- 🎨 **Creative Frontend:** Specialized in building WebGL/3D interfaces with **Three.js & React Three Fiber**, alongside scroll-driven animations with **GSAP & Lenis**.
+- ⚙️ **Modern Tooling:** Hands-on with **Bun**, **Docker**, and **CI/CD pipelines** for automated testing and deployment.
+- 🎓 **Education:** Master of Computer Applications (MCA) at Manipal University | BCA from Mangalayatan University.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills & Technologies
 
-#### **Frontend & UI**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+#### **Frontend & Frameworks**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
 
-#### **3D & Creative Web**
+#### **3D Graphics & Motion**
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=react&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/R3F_/_Drei-000000?style=flat-square&logo=react&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP_ScrollTrigger-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Lenis](https://img.shields.io/badge/Lenis_Scroll-000000?style=flat-square)
 
-#### **Backend, Database & DevOps**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+#### **Tooling, Deployment & Core**
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
 ---
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Velocity** | Interactive 3D product showcase and web experience featuring custom models and smooth animations. | Three.js, React Three Fiber, GSAP, Tailwind CSS | [Live Demo](#) • [Repository](#) |
-| **Finquity** | Modern investment and portfolio tracking platform with responsive, mobile-first dashboards and real-time data handling. | React, Tailwind CSS, Axios, REST APIs | [Live Demo](https://finquity.net) • [Repository](#) |
-| **Team Nitians** | College discovery and institutional comparison platform with dynamic filtering and fast search indexing. | React, Tailwind CSS, REST APIs | [Live Demo](https://teamnitians.com) • [Repository](#) |
-| **TaskMate AI / Focus Labs** | AI-assisted task and habit management application with background task processing and cloud database integration. | Next.js, TypeScript, Appwrite / Node.js | [Live Demo](#) • [Repository](#) |
+| Project | Highlights & Tech Stack | Links |
+| :--- | :--- | :--- |
+| **Velocity** | **Interactive 3D Footwear Experience**<br>• GLTF 3D shoe rendering with rotation, zoom controls, studio lighting & PBR materials.<br>• *Stack:* React, TypeScript, Three.js, React Three Fiber, Drei, Tailwind CSS | [Live Demo](#) • [Code](#) |
+| **Redefine** | **Immersive Gaming Website**<br>• Scroll-triggered clip-path animations, video transitions, and pinned visual storytelling.<br>• *Stack:* React, Tailwind CSS, GSAP ScrollTrigger | [Live Demo](#) • [Code](#) |
+| **Funky** | **Digital Art Showcase & Motion Platform**<br>• Smooth stacked-card scrolling, perspective 3D transformations, and layered depth.<br>• *Stack:* Next.js, TypeScript, GSAP, Lenis Scroll | [Live Demo](#) • [Code](#) |
 
 ---
 
