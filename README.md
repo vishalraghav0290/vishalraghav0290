@@ -1,54 +1,61 @@
-<div>
-<img align="center" src="https://i.imgur.com/4ASafy0.png">
-</div>
+# Hi there, I'm Vishal Raghav 👋
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-raghav-747a61251/)
+[![Portfolio / Live Demos](https://img.shields.io/badge/Live_Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://finquity.net)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalraghav0289@gmail.com)
 
-<h1 align="center">Hi, I'm Vishal Raghav</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+---
 
+### 🚀 About Me
 
-## 🛠 My skills include 
-<p align="center"> <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/redis-logo.png" alt="c" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NODEJS" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://logotyp.us/file/typescript.svg" alt="Java" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="mssql" width="40" height="40"/> </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="aws" width="55" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/hOXHjsHEaEm2Bw5HYTfKBpYlTscAZEz0Djit6KAoGhU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2ExYWM3ZjNi/YmYyMjJmZGJhZGE5/Y2JjYjgxZmY1YmM1/Y2M0YzRiNTFhMWQ4/N2ZiMzM4NGZmNThi/OWIwY2IzYS9uZXh0/anMub3JnLw" alt="nextjs" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/socket-io-icon.png" alt="Socketio" width="40" height="40"/> </a>
-  <a href="https://gnu.org" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash scripting" width="40" height="40" logo" title="BASH" height="50" /></a>
-     <a href="https://go.dev" target="_blank" rel="noreferrer">  <img src="https://imgs.search.brave.com/KMfL1FeoSi71TAAcxfVYbbF5s7R5B5-QxKrwHmmJKGg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzJmMGQ0MDEy/MGNmMDk0YWQwNWRl/MjY3NzY4MzFkOGYy/YWFiMDFlMTExNDZj/MDUzZDgyNTNjMjUy/ODFlZTY2Yy9nby5k/ZXYv" alt="golang" width="40" height="40" logo" title="GOLANG" height="50" /></a>
-</p>
+I am a **Frontend / Full-Stack Developer** specializing in building high-performance web applications, scalable component architectures, and interactive 3D experiences.
 
-<br/>
+- 💼 **Experience:** Frontend Developer with production experience building web applications using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
+- ⚡ **Specialties:** Component architecture, web performance optimization (reduced load times by up to 40%), REST API integration, and 3D web development (**Three.js / React Three Fiber**).
+- 🎓 **Education:** Master of Computer Applications (MCA) at Manipal University Jaipur | BCA from Mangalayatan University.
+- 💬 **Ask me about:** React, Next.js, WebGL/Three.js, Docker, and frontend architecture.
 
-## 📖  What I am currently learning / improving on
+---
+
+### 🛠️ Tech Stack
+
+#### **Frontend & UI**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+#### **3D & Creative Web**
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=react&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+
+#### **Backend, Database & DevOps**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Velocity** | Interactive 3D product showcase and web experience featuring custom models and smooth animations. | Three.js, React Three Fiber, GSAP, Tailwind CSS | [Live Demo](#) • [Repository](#) |
+| **Finquity** | Modern investment and portfolio tracking platform with responsive, mobile-first dashboards and real-time data handling. | React, Tailwind CSS, Axios, REST APIs | [Live Demo](https://finquity.net) • [Repository](#) |
+| **Team Nitians** | College discovery and institutional comparison platform with dynamic filtering and fast search indexing. | React, Tailwind CSS, REST APIs | [Live Demo](https://teamnitians.com) • [Repository](#) |
+| **TaskMate AI / Focus Labs** | AI-assisted task and habit management application with background task processing and cloud database integration. | Next.js, TypeScript, Appwrite / Node.js | [Live Demo](#) • [Repository](#) |
+
+---
+
+### 📊 GitHub Activity
+
 <p align="center">
-
-
-  <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo_with_border.svg" alt="K8 Logo" title="K8" height="50">
-<img src="https://imgs.search.brave.com/KMfL1FeoSi71TAAcxfVYbbF5s7R5B5-QxKrwHmmJKGg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzJmMGQ0MDEy/MGNmMDk0YWQwNWRl/MjY3NzY4MzFkOGYy/YWFiMDFlMTExNDZj/MDUzZDgyNTNjMjUy/ODFlZTY2Yy9nby5k/ZXYv" alt="golang"  title="Golang" height="50"/>
-
- </p>
- 
-<br/>
- 
-## 🔥 Github Stats
-
-<p  align="center"> 
-<a href="https://github.com/vishalraghav0290">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=vishalraghav0290&rank_icon=github&show_icons=true&include_all_commits=true" alt=""/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalraghav0290&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Vishal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalraghav0290&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-<br>
-
-## 📬 Get in touch
-
-<p align="center">
-<a href="https://x.com/vishalRaghav666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishal-raghav-747a61251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-   
-
-
-<br>
-
-
-![](https://komarev.com/ghpvc/?username=vishalraghav0290)
-
-  
