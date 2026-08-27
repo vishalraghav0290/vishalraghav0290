@@ -1,4 +1,4 @@
-# Hi there, I'm Vishal Raghav 👋
+# Hi there, I'm Vishal Raghav 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-raghav-747a61251/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com)
@@ -7,14 +7,14 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I am a **Frontend & Creative Web Developer** building high-performance web applications, interactive 3D experiences, and smooth motion interfaces.
 
-- 💼 **Experience:** Developed scalable, type-safe interfaces at **MrManager** and **DigiVikreta** using Next.js, TypeScript, React, and Tailwind CSS.
-- 🎨 **Creative Frontend:** Specialized in building WebGL/3D interfaces with **Three.js & React Three Fiber**, alongside scroll-driven animations with **GSAP & Lenis**.
-- ⚙️ **Modern Tooling:** Hands-on with **Bun**, **Docker**, and **CI/CD pipelines** for automated testing and deployment.
-- 🎓 **Education:** Master of Computer Applications (MCA) at Manipal University | BCA from Mangalayatan University.
+-  **Experience:** Developed scalable, type-safe interfaces at **MrManager** and **DigiVikreta** using Next.js, TypeScript, React, and Tailwind CSS.
+-  **Creative Frontend:** Specialized in building WebGL/3D interfaces with **Three.js & React Three Fiber**, alongside scroll-driven animations with **GSAP & Lenis**.
+- **Modern Tooling:** Hands-on with **Bun**, **Docker**, and **CI/CD pipelines** for automated testing and deployment.
+-  **Education:** Master of Computer Applications (MCA) at Manipal University | BCA from Mangalayatan University.
 
 ---
 
@@ -44,7 +44,7 @@ I am a **Frontend & Creative Web Developer** building high-performance web appli
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 | Project | Highlights & Tech Stack | Links |
 | :--- | :--- | :--- |
@@ -54,9 +54,3 @@ I am a **Frontend & Creative Web Developer** building high-performance web appli
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalraghav0290&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Vishal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalraghav0290&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
