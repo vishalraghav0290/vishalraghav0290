@@ -1,4 +1,5 @@
-# Hi there, I'm Vishal Raghav 
+#Vishal Raghav
+## Software Development Engineer (SDE) | Systems Architect | AI & Performance Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-raghav-747a61251/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com)
@@ -9,12 +10,14 @@
 
 ###  About Me
 
-I am a **Frontend & Creative Web Developer** building high-performance web applications, interactive 3D experiences, and smooth motion interfaces.
+I am Software Development Engineer (SDE), I focus on building distributed architecture and rendering pipelines for high performance and AI infrastructure. The core philosophy of my engineering practice are efficiency, fault tolerance, and efficient data pipeline management throughout the entire process from requests to responses.
 
--  **Experience:** Developed scalable, type-safe interfaces at **MrManager** and **DigiVikreta** using Next.js, TypeScript, React, and Tailwind CSS.
--  **Creative Frontend:** Specialized in building WebGL/3D interfaces with **Three.js & React Three Fiber**, alongside scroll-driven animations with **GSAP & Lenis**.
+From low-level compute shader optimizations for WebGPU to designing streaming Next.js server components to constructing the required backend infrastructures, all the applications I have been working on are meant to function seamlessly under highly stressful conditions.
+
+-  **Systems Architecture & Backend Scalability: :** Engineered highly scalable, type-safe web applications and frontend services for platforms including MrManager and DigiVikreta. Demonstrated ability to transition complex business logic into efficient, maintainable architectures ** 
+-  **CI/CD, Infrastructure & Quality Engineering:** Built efficient, scalable front-ends through modular architecture and state management. Improved page load times by 40%+ through code splitting, lazy loading, memoization, and optimized API requests.**.
 - **Modern Tooling:** Hands-on with **Bun**, **Docker**, and **CI/CD pipelines** for automated testing and deployment.
--  **Education:** Master of Computer Applications (MCA) at Manipal University | BCA from Mangalayatan University.
+-  **High-Performance Rendering & Compute:** Experience in developing efficient graphics algorithms and programming GPU architectures, transitioning from CPU rendering to multi-threaded GPU architectures. Focuses on efficient rendering pipelines, reducing draw call costs, and improving computational performance **
 
 ---
 
@@ -48,9 +51,9 @@ I am a **Frontend & Creative Web Developer** building high-performance web appli
 
 | Project | Highlights & Tech Stack | Links |
 | :--- | :--- | :--- |
-| **Velocity** | **Interactive 3D Footwear Experience**<br>• GLTF 3D shoe rendering with rotation, zoom controls, studio lighting & PBR materials.<br>• *Stack:* React, TypeScript, Three.js, React Three Fiber, Drei, Tailwind CSS | [Live Demo](#) • [Code](#) |
-| **Redefine** | **Immersive Gaming Website**<br>• Scroll-triggered clip-path animations, video transitions, and pinned visual storytelling.<br>• *Stack:* React, Tailwind CSS, GSAP ScrollTrigger | [Live Demo](#) • [Code](#) |
-| **Funky** | **Digital Art Showcase & Motion Platform**<br>• Smooth stacked-card scrolling, perspective 3D transformations, and layered depth.<br>• *Stack:* Next.js, TypeScript, GSAP, Lenis Scroll | [Live Demo](#) • [Code](#) |
+| **NexBoard** | **Real-Time Collaborative Spatial Architecturee**<br>• Decoupled Architecture: Separated stateful WebSocket connections from stateless Next.js React Server Components (RSC), ensuring optimal initial load performance via zero-bundle static shells while maintaining sub-millisecond real-time DOM hydration.<br>• Distributed State Management: Implemented custom Conflict-Free Replicated Data Types (CRDTs) to handle concurrent state mutations across client nodes without requiring aggressive database locking, ensuring eventual consistency and data integrity.<br>•Graphics Optimization: Utilized optimized canvas rendering loops, minimizing CPU main-thread blocking by batching draw calls and efficiently managing memory garbage collection.| [Live Demo](#https/nexboard.vishalraghav.dev) • [Code](#) |
+| **Velocity** | **Interactive 3D Footwear Experience**<br>• GLTF 3D shoe rendering with rotation, zoom controls, studio lighting & PBR materials.<br>• *Stack:* React, TypeScript, Three.js, React Three Fiber, Drei, Tailwind CSS | [Live Demo](##https/velocity.vishalraghav.dev) • [Code](#) |
+| **Redefine** | **Immersive Gaming Website**<br>• Scroll-triggered clip-path animations, video transitions, and pinned visual storytelling.<br>• *Stack:* React, Tailwind CSS, GSAP ScrollTrigger | [Live Demo](##https/redifine.vishalraghav.dev) • [Code](#) |
 
 ---
 
